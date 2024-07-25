@@ -1,0 +1,30 @@
+<employees>
+    <employee>
+        <employee_id>1</employee_id>
+        <first_name>John</first_name>
+        <last_name>Doe</last_name>
+        <email>john.doe@example.com</email>
+        <department>Sales</department>
+    </employee>
+    <employee>
+        <employee_id>2</employee_id>
+        <first_name>Jane</first_name>
+        <last_name>Smith</last_name>
+        <email>jane.smith@example.com</email>
+        <department>Marketing</department>
+    </employee>
+    <employee>
+        <employee_id>3</employee_id>
+        <first_name>Bob</first_name>
+        <last_name>Johnson</last_name>
+        <email>bob.johnson@example.com</email>
+        <department>Development</department>
+    </employee>
+    <employee>
+        <employee_id>4</employee_id>
+        <first_name>Alice</first_name>
+        <last_name>Brown</last_name>
+        <email>alice.brown@example.com</email>
+        <department>Support</department>
+    </employee>
+</employees>

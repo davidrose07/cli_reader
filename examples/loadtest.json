@@ -1,0 +1,2552 @@
+[
+    { 
+    "cellID": 1, 
+    "intervalVoltage":1, 
+    "measurement":54.150, 
+    "measurementDate": "2019-01-29T01:00:30.018Z" },
+
+    { 
+    "cellID": 1, 
+    "intervalVoltage":2, 
+    "measurement":45.749, 
+    "measurementDate": "2019-01-29T02:00:30.018Z" },
+
+    { 
+    "cellID": 1, 
+    "intervalVoltage":3, 
+    "measurement":45.798, 
+    "measurementDate": "2019-01-29T03:00:30.018Z" },
+
+    { 
+    "cellID": 1, 
+    "intervalVoltage":4, 
+    "measurement":45.866, 
+    "measurementDate": "2019-01-29T04:00:30.018Z" },
+
+    { 
+    "cellID": 1, 
+    "intervalVoltage":5, 
+    "measurement":45.926, 
+    "measurementDate": "2019-01-29T05:00:30.018Z" },
+
+    { 
+    "cellID": 1, 
+    "intervalVoltage":6, 
+    "measurement":46.003, 
+    "measurementDate": "2019-01-29T06:00:30.018Z" },
+
+    { 
+    "cellID": 1, 
+    "intervalVoltage":7, 
+    "measurement":45.965, 
+    "measurementDate": "2019-01-29T07:00:30.018Z" },
+
+    { 
+    "cellID": 1, 
+    "intervalVoltage":8, 
+    "measurement":45.890, 
+    "measurementDate": "2019-01-29T08:00:30.018Z" },
+
+    { 
+    "cellID": 1, 
+    "intervalVoltage":9, 
+    "measurement":45.754, 
+    "measurementDate": "2019-01-29T09:00:30.018Z" },
+
+    { 
+    "cellID": 1, 
+    "intervalVoltage":10, 
+    "measurement":45.639, 
+    "measurementDate": "2019-01-29T10:00:30.018Z" },
+
+    { 
+    "cellID": 1, 
+    "intervalVoltage":11, 
+    "measurement":45.459, 
+    "measurementDate": "2019-01-29T11:00:30.018Z" },
+
+    { 
+    "cellID": 1, 
+    "intervalVoltage":12, 
+    "measurement":45.241, 
+    "measurementDate": "2019-01-29T12:00:30.018Z" },
+
+    { 
+    "cellID": 1, 
+    "intervalVoltage":13, 
+    "measurement":45.139, 
+    "measurementDate": "2019-01-29T13:00:30.018Z" },
+
+    { 
+    "cellID": 1, 
+    "intervalVoltage":14, 
+    "measurement":44.963, 
+    "measurementDate": "2019-01-29T14:00:30.018Z" },
+
+    { 
+    "cellID": 1, 
+    "intervalVoltage":15, 
+    "measurement":44.792, 
+    "measurementDate": "2019-01-29T15:00:30.018Z" },
+
+    { 
+    "cellID": 1, 
+    "intervalVoltage":16, 
+    "measurement":44.592, 
+    "measurementDate": "2019-01-29T16:00:30.018Z" },
+
+    { 
+    "cellID": 1, 
+    "intervalVoltage":17, 
+    "measurement":44.451, 
+    "measurementDate": "2019-01-29T17:00:30.018Z" },
+
+    { 
+    "cellID": 2, 
+    "intervalVoltage":1, 
+    "measurement":2.222, 
+    "measurementDate": "2019-01-29T01:00:30.018Z" },
+
+    { 
+    "cellID": 2, 
+    "intervalVoltage":2, 
+    "measurement":1.911, 
+    "measurementDate": "2019-01-29T02:00:30.018Z" },
+
+    { 
+    "cellID": 2, 
+    "intervalVoltage":3, 
+    "measurement":1.915, 
+    "measurementDate": "2019-01-29T03:00:30.018Z" },
+
+    { 
+    "cellID": 2, 
+    "intervalVoltage":4, 
+    "measurement":1.924, 
+    "measurementDate": "2019-01-29T04:00:30.018Z" },
+
+    { 
+    "cellID": 2, 
+    "intervalVoltage":5, 
+    "measurement":1.925, 
+    "measurementDate": "2019-01-29T05:00:30.018Z" },
+
+    { 
+    "cellID": 2, 
+    "intervalVoltage":6, 
+    "measurement":1.925, 
+    "measurementDate": "2019-01-29T06:00:30.018Z" },
+
+    { 
+    "cellID": 2, 
+    "intervalVoltage":7, 
+    "measurement":1.924, 
+    "measurementDate": "2019-01-29T07:00:30.018Z" },
+
+    { 
+    "cellID": 2, 
+    "intervalVoltage":8, 
+    "measurement":1.919, 
+    "measurementDate": "2019-01-29T08:00:30.018Z" },
+
+    { 
+    "cellID": 2, 
+    "intervalVoltage":9, 
+    "measurement":1.918, 
+    "measurementDate": "2019-01-29T09:00:30.018Z" },
+
+    { 
+    "cellID": 2, 
+    "intervalVoltage":10, 
+    "measurement":1.912, 
+    "measurementDate": "2019-01-29T10:00:30.018Z" },
+
+    { 
+    "cellID": 2, 
+    "intervalVoltage":11, 
+    "measurement":1.901, 
+    "measurementDate": "2019-01-29T11:00:30.018Z" },
+
+    { 
+    "cellID": 2, 
+    "intervalVoltage":12, 
+    "measurement":1.899, 
+    "measurementDate": "2019-01-29T12:00:30.018Z" },
+
+    { 
+    "cellID": 2, 
+    "intervalVoltage":13, 
+    "measurement":1.892, 
+    "measurementDate": "2019-01-29T13:00:30.018Z" },
+
+    { 
+    "cellID": 2, 
+    "intervalVoltage":14, 
+    "measurement":1.891, 
+    "measurementDate": "2019-01-29T14:00:30.018Z" },
+
+    { 
+    "cellID": 2, 
+    "intervalVoltage":15, 
+    "measurement":1.879, 
+    "measurementDate": "2019-01-29T15:00:30.018Z" },
+
+    { 
+    "cellID": 2, 
+    "intervalVoltage":16, 
+    "measurement":1.876, 
+    "measurementDate": "2019-01-29T16:00:30.018Z" },
+
+    { 
+    "cellID": 2, 
+    "intervalVoltage":17, 
+    "measurement":1.861, 
+    "measurementDate": "2019-01-29T17:00:30.018Z" },
+
+    { 
+    "cellID": 3, 
+    "intervalVoltage":1, 
+    "measurement":2.210, 
+    "measurementDate": "2019-01-29T01:00:30.018Z" },
+
+    { 
+    "cellID": 3, 
+    "intervalVoltage":2, 
+    "measurement":1.924, 
+    "measurementDate": "2019-01-29T02:00:30.018Z" },
+
+    { 
+    "cellID": 3, 
+    "intervalVoltage":3, 
+    "measurement":1.927, 
+    "measurementDate": "2019-01-29T03:00:30.018Z" },
+
+    { 
+    "cellID": 3, 
+    "intervalVoltage":4, 
+    "measurement":1.928, 
+    "measurementDate": "2019-01-29T04:00:30.018Z" },
+
+    { 
+    "cellID": 3, 
+    "intervalVoltage":5, 
+    "measurement":1.928, 
+    "measurementDate": "2019-01-29T05:00:30.018Z" },
+
+    { 
+    "cellID": 3, 
+    "intervalVoltage":6, 
+    "measurement":1.932, 
+    "measurementDate": "2019-01-29T06:00:30.018Z" },
+
+    { 
+    "cellID": 3, 
+    "intervalVoltage":7, 
+    "measurement":1.923, 
+    "measurementDate": "2019-01-29T07:00:30.018Z" },
+
+    { 
+    "cellID": 3, 
+    "intervalVoltage":8, 
+    "measurement":1.927, 
+    "measurementDate": "2019-01-29T08:00:30.018Z" },
+
+    { 
+    "cellID": 3, 
+    "intervalVoltage":9, 
+    "measurement":1.916, 
+    "measurementDate": "2019-01-29T09:00:30.018Z" },
+
+    { 
+    "cellID": 3, 
+    "intervalVoltage":10, 
+    "measurement":1.911, 
+    "measurementDate": "2019-01-29T10:00:30.018Z" },
+
+    { 
+    "cellID": 3, 
+    "intervalVoltage":11, 
+    "measurement":1.911, 
+    "measurementDate": "2019-01-29T11:00:30.018Z" },
+
+    { 
+    "cellID": 3, 
+    "intervalVoltage":12, 
+    "measurement":1.902, 
+    "measurementDate": "2019-01-29T12:00:30.018Z" },
+
+    { 
+    "cellID": 3, 
+    "intervalVoltage":13, 
+    "measurement":1.893, 
+    "measurementDate": "2019-01-29T13:00:30.018Z" },
+
+    { 
+    "cellID": 3, 
+    "intervalVoltage":14, 
+    "measurement":1.887, 
+    "measurementDate": "2019-01-29T14:00:30.018Z" },
+
+    { 
+    "cellID": 3, 
+    "intervalVoltage":15, 
+    "measurement":1.882, 
+    "measurementDate": "2019-01-29T15:00:30.018Z" },
+
+    { 
+    "cellID": 3, 
+    "intervalVoltage":16, 
+    "measurement":1.871, 
+    "measurementDate": "2019-01-29T16:00:30.018Z" },
+
+    { 
+    "cellID": 3, 
+    "intervalVoltage":17, 
+    "measurement":1.873, 
+    "measurementDate": "2019-01-29T17:00:30.018Z" },
+
+    { 
+    "cellID": 4, 
+    "intervalVoltage":1, 
+    "measurement":2.210, 
+    "measurementDate": "2019-01-29T01:00:30.018Z" },
+
+    { 
+    "cellID": 4, 
+    "intervalVoltage":2, 
+    "measurement":1.907, 
+    "measurementDate": "2019-01-29T02:00:30.018Z" },
+
+    { 
+    "cellID": 4, 
+    "intervalVoltage":3, 
+    "measurement":1.910, 
+    "measurementDate": "2019-01-29T03:00:30.018Z" },
+
+    { 
+    "cellID": 4, 
+    "intervalVoltage":4, 
+    "measurement":1.916, 
+    "measurementDate": "2019-01-29T04:00:30.018Z" },
+
+    { 
+    "cellID": 4, 
+    "intervalVoltage":5, 
+    "measurement":1.931, 
+    "measurementDate": "2019-01-29T05:00:30.018Z" },
+
+    { 
+    "cellID": 4, 
+    "intervalVoltage":6, 
+    "measurement":1.922, 
+    "measurementDate": "2019-01-29T06:00:30.018Z" },
+
+    { 
+    "cellID": 4, 
+    "intervalVoltage":7, 
+    "measurement":1.929, 
+    "measurementDate": "2019-01-29T07:00:30.018Z" },
+
+    { 
+    "cellID": 4, 
+    "intervalVoltage":8, 
+    "measurement":1.920, 
+    "measurementDate": "2019-01-29T08:00:30.018Z" },
+
+    { 
+    "cellID": 4, 
+    "intervalVoltage":9, 
+    "measurement":1.917, 
+    "measurementDate": "2019-01-29T09:00:30.018Z" },
+
+    { 
+    "cellID": 4, 
+    "intervalVoltage":10, 
+    "measurement":1.912, 
+    "measurementDate": "2019-01-29T10:00:30.018Z" },
+
+    { 
+    "cellID": 4, 
+    "intervalVoltage":11, 
+    "measurement":1.908, 
+    "measurementDate": "2019-01-29T11:00:30.018Z" },
+
+    { 
+    "cellID": 4, 
+    "intervalVoltage":12, 
+    "measurement":1.898, 
+    "measurementDate": "2019-01-29T12:00:30.018Z" },
+
+    { 
+    "cellID": 4, 
+    "intervalVoltage":13, 
+    "measurement":1.898, 
+    "measurementDate": "2019-01-29T13:00:30.018Z" },
+
+    { 
+    "cellID": 4, 
+    "intervalVoltage":14, 
+    "measurement":1.886, 
+    "measurementDate": "2019-01-29T14:00:30.018Z" },
+
+    { 
+    "cellID": 4, 
+    "intervalVoltage":15, 
+    "measurement":1.874, 
+    "measurementDate": "2019-01-29T15:00:30.018Z" },
+
+    { 
+    "cellID": 4, 
+    "intervalVoltage":16, 
+    "measurement":1.871, 
+    "measurementDate": "2019-01-29T16:00:30.018Z" },
+
+    { 
+    "cellID": 4, 
+    "intervalVoltage":17, 
+    "measurement":1.866, 
+    "measurementDate": "2019-01-29T17:00:30.018Z" },
+
+    { 
+    "cellID": 5, 
+    "intervalVoltage":1, 
+    "measurement":2.208, 
+    "measurementDate": "2019-01-29T01:00:30.018Z" },
+
+    { 
+    "cellID": 5, 
+    "intervalVoltage":2, 
+    "measurement":1.915, 
+    "measurementDate": "2019-01-29T02:00:30.018Z" },
+
+    { 
+    "cellID": 5, 
+    "intervalVoltage":3, 
+    "measurement":1.915, 
+    "measurementDate": "2019-01-29T03:00:30.018Z" },
+
+    { 
+    "cellID": 5, 
+    "intervalVoltage":4, 
+    "measurement":1.927, 
+    "measurementDate": "2019-01-29T04:00:30.018Z" },
+
+    { 
+    "cellID": 5, 
+    "intervalVoltage":5, 
+    "measurement":1.928, 
+    "measurementDate": "2019-01-29T05:00:30.018Z" },
+
+    { 
+    "cellID": 5, 
+    "intervalVoltage":6, 
+    "measurement":1.923, 
+    "measurementDate": "2019-01-29T06:00:30.018Z" },
+
+    { 
+    "cellID": 5, 
+    "intervalVoltage":7, 
+    "measurement":1.917, 
+    "measurementDate": "2019-01-29T07:00:30.018Z" },
+
+    { 
+    "cellID": 5, 
+    "intervalVoltage":8, 
+    "measurement":1.920, 
+    "measurementDate": "2019-01-29T08:00:30.018Z" },
+
+    { 
+    "cellID": 5, 
+    "intervalVoltage":9, 
+    "measurement":1.921, 
+    "measurementDate": "2019-01-29T09:00:30.018Z" },
+
+    { 
+    "cellID": 5, 
+    "intervalVoltage":10, 
+    "measurement":1.903, 
+    "measurementDate": "2019-01-29T10:00:30.018Z" },
+
+    { 
+    "cellID": 5, 
+    "intervalVoltage":11, 
+    "measurement":1.900, 
+    "measurementDate": "2019-01-29T11:00:30.018Z" },
+
+    { 
+    "cellID": 5, 
+    "intervalVoltage":12, 
+    "measurement":1.900, 
+    "measurementDate": "2019-01-29T12:00:30.018Z" },
+
+    { 
+    "cellID": 5, 
+    "intervalVoltage":13, 
+    "measurement":1.894, 
+    "measurementDate": "2019-01-29T13:00:30.018Z" },
+
+    { 
+    "cellID": 5, 
+    "intervalVoltage":14, 
+    "measurement":1.879, 
+    "measurementDate": "2019-01-29T14:00:30.018Z" },
+
+    { 
+    "cellID": 5, 
+    "intervalVoltage":15, 
+    "measurement":1.883, 
+    "measurementDate": "2019-01-29T15:00:30.018Z" },
+
+    { 
+    "cellID": 5, 
+    "intervalVoltage":16, 
+    "measurement":1.864, 
+    "measurementDate": "2019-01-29T16:00:30.018Z" },
+
+    { 
+    "cellID": 5, 
+    "intervalVoltage":17, 
+    "measurement":1.858, 
+    "measurementDate": "2019-01-29T17:00:30.018Z" },
+
+    { 
+    "cellID": 6, 
+    "intervalVoltage":1, 
+    "measurement":2.238, 
+    "measurementDate": "2019-01-29T01:00:30.018Z" },
+
+    { 
+    "cellID": 6, 
+    "intervalVoltage":2, 
+    "measurement":1.912, 
+    "measurementDate": "2019-01-29T02:00:30.018Z" },
+
+    { 
+    "cellID": 6, 
+    "intervalVoltage":3, 
+    "measurement":1.913, 
+    "measurementDate": "2019-01-29T03:00:30.018Z" },
+
+    { 
+    "cellID": 6, 
+    "intervalVoltage":4, 
+    "measurement":1.912, 
+    "measurementDate": "2019-01-29T04:00:30.018Z" },
+
+    { 
+    "cellID": 6, 
+    "intervalVoltage":5, 
+    "measurement":1.915, 
+    "measurementDate": "2019-01-29T05:00:30.018Z" },
+
+    { 
+    "cellID": 6, 
+    "intervalVoltage":6, 
+    "measurement":1.918, 
+    "measurementDate": "2019-01-29T06:00:30.018Z" },
+
+    { 
+    "cellID": 6, 
+    "intervalVoltage":7, 
+    "measurement":1.920, 
+    "measurementDate": "2019-01-29T07:00:30.018Z" },
+
+    { 
+    "cellID": 6, 
+    "intervalVoltage":8, 
+    "measurement":1.906, 
+    "measurementDate": "2019-01-29T08:00:30.018Z" },
+
+    { 
+    "cellID": 6, 
+    "intervalVoltage":9, 
+    "measurement":1.895, 
+    "measurementDate": "2019-01-29T09:00:30.018Z" },
+
+    { 
+    "cellID": 6, 
+    "intervalVoltage":10, 
+    "measurement":1.922, 
+    "measurementDate": "2019-01-29T10:00:30.018Z" },
+
+    { 
+    "cellID": 6, 
+    "intervalVoltage":11, 
+    "measurement":1.909, 
+    "measurementDate": "2019-01-29T11:00:30.018Z" },
+
+    { 
+    "cellID": 6, 
+    "intervalVoltage":12, 
+    "measurement":1.904, 
+    "measurementDate": "2019-01-29T12:00:30.018Z" },
+
+    { 
+    "cellID": 6, 
+    "intervalVoltage":13, 
+    "measurement":1.875, 
+    "measurementDate": "2019-01-29T13:00:30.018Z" },
+
+    { 
+    "cellID": 6, 
+    "intervalVoltage":14, 
+    "measurement":1.887, 
+    "measurementDate": "2019-01-29T14:00:30.018Z" },
+
+    { 
+    "cellID": 6, 
+    "intervalVoltage":15, 
+    "measurement":1.870, 
+    "measurementDate": "2019-01-29T15:00:30.018Z" },
+
+    { 
+    "cellID": 6, 
+    "intervalVoltage":16, 
+    "measurement":1.873, 
+    "measurementDate": "2019-01-29T16:00:30.018Z" },
+
+    { 
+    "cellID": 6, 
+    "intervalVoltage":17, 
+    "measurement":1.852, 
+    "measurementDate": "2019-01-29T17:00:30.018Z" },
+
+    { 
+    "cellID": 7, 
+    "intervalVoltage":1, 
+    "measurement":2.255, 
+    "measurementDate": "2019-01-29T01:00:30.018Z" },
+
+    { 
+    "cellID": 7, 
+    "intervalVoltage":2, 
+    "measurement":1.891, 
+    "measurementDate": "2019-01-29T02:00:30.018Z" },
+
+    { 
+    "cellID": 7, 
+    "intervalVoltage":3, 
+    "measurement":1.925, 
+    "measurementDate": "2019-01-29T03:00:30.018Z" },
+
+    { 
+    "cellID": 7, 
+    "intervalVoltage":4, 
+    "measurement":1.932, 
+    "measurementDate": "2019-01-29T04:00:30.018Z" },
+
+    { 
+    "cellID": 7, 
+    "intervalVoltage":5, 
+    "measurement":1.918, 
+    "measurementDate": "2019-01-29T05:00:30.018Z" },
+
+    { 
+    "cellID": 7, 
+    "intervalVoltage":6, 
+    "measurement":1.926, 
+    "measurementDate": "2019-01-29T06:00:30.018Z" },
+
+    { 
+    "cellID": 7, 
+    "intervalVoltage":7, 
+    "measurement":1.924, 
+    "measurementDate": "2019-01-29T07:00:30.018Z" },
+
+    { 
+    "cellID": 7, 
+    "intervalVoltage":8, 
+    "measurement":1.924, 
+    "measurementDate": "2019-01-29T08:00:30.018Z" },
+
+    { 
+    "cellID": 7, 
+    "intervalVoltage":9, 
+    "measurement":1.922, 
+    "measurementDate": "2019-01-29T09:00:30.018Z" },
+
+    { 
+    "cellID": 7, 
+    "intervalVoltage":10, 
+    "measurement":1.902, 
+    "measurementDate": "2019-01-29T10:00:30.018Z" },
+
+    { 
+    "cellID": 7, 
+    "intervalVoltage":11, 
+    "measurement":1.899, 
+    "measurementDate": "2019-01-29T11:00:30.018Z" },
+
+    { 
+    "cellID": 7, 
+    "intervalVoltage":12, 
+    "measurement":1.878, 
+    "measurementDate": "2019-01-29T12:00:30.018Z" },
+
+    { 
+    "cellID": 7, 
+    "intervalVoltage":13, 
+    "measurement":1.883, 
+    "measurementDate": "2019-01-29T13:00:30.018Z" },
+
+    { 
+    "cellID": 7, 
+    "intervalVoltage":14, 
+    "measurement":1.870, 
+    "measurementDate": "2019-01-29T14:00:30.018Z" },
+
+    { 
+    "cellID": 7, 
+    "intervalVoltage":15, 
+    "measurement":1.864, 
+    "measurementDate": "2019-01-29T15:00:30.018Z" },
+
+    { 
+    "cellID": 7, 
+    "intervalVoltage":16, 
+    "measurement":1.860, 
+    "measurementDate": "2019-01-29T16:00:30.018Z" },
+
+    { 
+    "cellID": 7, 
+    "intervalVoltage":17, 
+    "measurement":1.855, 
+    "measurementDate": "2019-01-29T17:00:30.018Z" },
+
+    { 
+    "cellID": 8, 
+    "intervalVoltage":1, 
+    "measurement":2.230, 
+    "measurementDate": "2019-01-29T01:00:30.018Z" },
+
+    { 
+    "cellID": 8, 
+    "intervalVoltage":2, 
+    "measurement":1.940, 
+    "measurementDate": "2019-01-29T02:00:30.018Z" },
+
+    { 
+    "cellID": 8, 
+    "intervalVoltage":3, 
+    "measurement":1.921, 
+    "measurementDate": "2019-01-29T03:00:30.018Z" },
+
+    { 
+    "cellID": 8, 
+    "intervalVoltage":4, 
+    "measurement":1.916, 
+    "measurementDate": "2019-01-29T04:00:30.018Z" },
+
+    { 
+    "cellID": 8, 
+    "intervalVoltage":5, 
+    "measurement":1.922, 
+    "measurementDate": "2019-01-29T05:00:30.018Z" },
+
+    { 
+    "cellID": 8, 
+    "intervalVoltage":6, 
+    "measurement":1.932, 
+    "measurementDate": "2019-01-29T06:00:30.018Z" },
+
+    { 
+    "cellID": 8, 
+    "intervalVoltage":7, 
+    "measurement":1.933, 
+    "measurementDate": "2019-01-29T07:00:30.018Z" },
+
+    { 
+    "cellID": 8, 
+    "intervalVoltage":8, 
+    "measurement":1.914, 
+    "measurementDate": "2019-01-29T08:00:30.018Z" },
+
+    { 
+    "cellID": 8, 
+    "intervalVoltage":9, 
+    "measurement":1.924, 
+    "measurementDate": "2019-01-29T09:00:30.018Z" },
+
+    { 
+    "cellID": 8, 
+    "intervalVoltage":10, 
+    "measurement":1.910, 
+    "measurementDate": "2019-01-29T10:00:30.018Z" },
+
+    { 
+    "cellID": 8, 
+    "intervalVoltage":11, 
+    "measurement":1.896, 
+    "measurementDate": "2019-01-29T11:00:30.018Z" },
+
+    { 
+    "cellID": 8, 
+    "intervalVoltage":12, 
+    "measurement":1.897, 
+    "measurementDate": "2019-01-29T12:00:30.018Z" },
+
+    { 
+    "cellID": 8, 
+    "intervalVoltage":13, 
+    "measurement":1.904, 
+    "measurementDate": "2019-01-29T13:00:30.018Z" },
+
+    { 
+    "cellID": 8, 
+    "intervalVoltage":14, 
+    "measurement":1.896, 
+    "measurementDate": "2019-01-29T14:00:30.018Z" },
+
+    { 
+    "cellID": 8, 
+    "intervalVoltage":15, 
+    "measurement":1.885, 
+    "measurementDate": "2019-01-29T15:00:30.018Z" },
+
+    { 
+    "cellID": 8, 
+    "intervalVoltage":16, 
+    "measurement":1.863, 
+    "measurementDate": "2019-01-29T16:00:30.018Z" },
+
+    { 
+    "cellID": 8, 
+    "intervalVoltage":17, 
+    "measurement":1.855, 
+    "measurementDate": "2019-01-29T17:00:30.018Z" },
+
+    { 
+    "cellID": 9, 
+    "intervalVoltage":1, 
+    "measurement":2.264, 
+    "measurementDate": "2019-01-29T01:00:30.018Z" },
+
+    { 
+    "cellID": 9, 
+    "intervalVoltage":2, 
+    "measurement":1.915, 
+    "measurementDate": "2019-01-29T02:00:30.018Z" },
+
+    { 
+    "cellID": 9, 
+    "intervalVoltage":3, 
+    "measurement":1.898, 
+    "measurementDate": "2019-01-29T03:00:30.018Z" },
+
+    { 
+    "cellID": 9, 
+    "intervalVoltage":4, 
+    "measurement":1.919, 
+    "measurementDate": "2019-01-29T04:00:30.018Z" },
+
+    { 
+    "cellID": 9, 
+    "intervalVoltage":5, 
+    "measurement":1.916, 
+    "measurementDate": "2019-01-29T05:00:30.018Z" },
+
+    { 
+    "cellID": 9, 
+    "intervalVoltage":6, 
+    "measurement":1.924, 
+    "measurementDate": "2019-01-29T06:00:30.018Z" },
+
+    { 
+    "cellID": 9, 
+    "intervalVoltage":7, 
+    "measurement":1.911, 
+    "measurementDate": "2019-01-29T07:00:30.018Z" },
+
+    { 
+    "cellID": 9, 
+    "intervalVoltage":8, 
+    "measurement":1.911, 
+    "measurementDate": "2019-01-29T08:00:30.018Z" },
+
+    { 
+    "cellID": 9, 
+    "intervalVoltage":9, 
+    "measurement":1.893, 
+    "measurementDate": "2019-01-29T09:00:30.018Z" },
+
+    { 
+    "cellID": 9, 
+    "intervalVoltage":10, 
+    "measurement":1.897, 
+    "measurementDate": "2019-01-29T10:00:30.018Z" },
+
+    { 
+    "cellID": 9, 
+    "intervalVoltage":11, 
+    "measurement":1.906, 
+    "measurementDate": "2019-01-29T11:00:30.018Z" },
+
+    { 
+    "cellID": 9, 
+    "intervalVoltage":12, 
+    "measurement":1.898, 
+    "measurementDate": "2019-01-29T12:00:30.018Z" },
+
+    { 
+    "cellID": 9, 
+    "intervalVoltage":13, 
+    "measurement":1.878, 
+    "measurementDate": "2019-01-29T13:00:30.018Z" },
+
+    { 
+    "cellID": 9, 
+    "intervalVoltage":14, 
+    "measurement":1.863, 
+    "measurementDate": "2019-01-29T14:00:30.018Z" },
+
+    { 
+    "cellID": 9, 
+    "intervalVoltage":15, 
+    "measurement":1.859, 
+    "measurementDate": "2019-01-29T15:00:30.018Z" },
+
+    { 
+    "cellID": 9, 
+    "intervalVoltage":16, 
+    "measurement":1.876, 
+    "measurementDate": "2019-01-29T16:00:30.018Z" },
+
+    { 
+    "cellID": 9, 
+    "intervalVoltage":17, 
+    "measurement":1.857, 
+    "measurementDate": "2019-01-29T17:00:30.018Z" },
+
+    { 
+    "cellID": 10, 
+    "intervalVoltage":1, 
+    "measurement":2.243, 
+    "measurementDate": "2019-01-29T01:00:30.018Z" },
+
+    { 
+    "cellID": 10, 
+    "intervalVoltage":2, 
+    "measurement":1.896, 
+    "measurementDate": "2019-01-29T02:00:30.018Z" },
+
+    { 
+    "cellID": 10, 
+    "intervalVoltage":3, 
+    "measurement":1.903, 
+    "measurementDate": "2019-01-29T03:00:30.018Z" },
+
+    { 
+    "cellID": 10, 
+    "intervalVoltage":4, 
+    "measurement":1.917, 
+    "measurementDate": "2019-01-29T04:00:30.018Z" },
+
+    { 
+    "cellID": 10, 
+    "intervalVoltage":5, 
+    "measurement":1.925, 
+    "measurementDate": "2019-01-29T05:00:30.018Z" },
+
+    { 
+    "cellID": 10, 
+    "intervalVoltage":6, 
+    "measurement":1.922, 
+    "measurementDate": "2019-01-29T06:00:30.018Z" },
+
+    { 
+    "cellID": 10, 
+    "intervalVoltage":7, 
+    "measurement":1.910, 
+    "measurementDate": "2019-01-29T07:00:30.018Z" },
+
+    { 
+    "cellID": 10, 
+    "intervalVoltage":8, 
+    "measurement":1.932, 
+    "measurementDate": "2019-01-29T08:00:30.018Z" },
+
+    { 
+    "cellID": 10, 
+    "intervalVoltage":9, 
+    "measurement":1.930, 
+    "measurementDate": "2019-01-29T09:00:30.018Z" },
+
+    { 
+    "cellID": 10, 
+    "intervalVoltage":10, 
+    "measurement":1.907, 
+    "measurementDate": "2019-01-29T10:00:30.018Z" },
+
+    { 
+    "cellID": 10, 
+    "intervalVoltage":11, 
+    "measurement":1.913, 
+    "measurementDate": "2019-01-29T11:00:30.018Z" },
+
+    { 
+    "cellID": 10, 
+    "intervalVoltage":12, 
+    "measurement":1.892, 
+    "measurementDate": "2019-01-29T12:00:30.018Z" },
+
+    { 
+    "cellID": 10, 
+    "intervalVoltage":13, 
+    "measurement":1.893, 
+    "measurementDate": "2019-01-29T13:00:30.018Z" },
+
+    { 
+    "cellID": 10, 
+    "intervalVoltage":14, 
+    "measurement":1.874, 
+    "measurementDate": "2019-01-29T14:00:30.018Z" },
+
+    { 
+    "cellID": 10, 
+    "intervalVoltage":15, 
+    "measurement":1.873, 
+    "measurementDate": "2019-01-29T15:00:30.018Z" },
+
+    { 
+    "cellID": 10, 
+    "intervalVoltage":16, 
+    "measurement":1.847, 
+    "measurementDate": "2019-01-29T16:00:30.018Z" },
+
+    { 
+    "cellID": 10, 
+    "intervalVoltage":17, 
+    "measurement":1.872, 
+    "measurementDate": "2019-01-29T17:00:30.018Z" },
+
+    { 
+    "cellID": 11, 
+    "intervalVoltage":1, 
+    "measurement":2.257, 
+    "measurementDate": "2019-01-29T01:00:30.018Z" },
+
+    { 
+    "cellID": 11, 
+    "intervalVoltage":2, 
+    "measurement":1.922, 
+    "measurementDate": "2019-01-29T02:00:30.018Z" },
+
+    { 
+    "cellID": 11, 
+    "intervalVoltage":3, 
+    "measurement":1.922, 
+    "measurementDate": "2019-01-29T03:00:30.018Z" },
+
+    { 
+    "cellID": 11, 
+    "intervalVoltage":4, 
+    "measurement":1.922, 
+    "measurementDate": "2019-01-29T04:00:30.018Z" },
+
+    { 
+    "cellID": 11, 
+    "intervalVoltage":5, 
+    "measurement":1.919, 
+    "measurementDate": "2019-01-29T05:00:30.018Z" },
+
+    { 
+    "cellID": 11, 
+    "intervalVoltage":6, 
+    "measurement":1.916, 
+    "measurementDate": "2019-01-29T06:00:30.018Z" },
+
+    { 
+    "cellID": 11, 
+    "intervalVoltage":7, 
+    "measurement":1.947, 
+    "measurementDate": "2019-01-29T07:00:30.018Z" },
+
+    { 
+    "cellID": 11, 
+    "intervalVoltage":8, 
+    "measurement":1.907, 
+    "measurementDate": "2019-01-29T08:00:30.018Z" },
+
+    { 
+    "cellID": 11, 
+    "intervalVoltage":9, 
+    "measurement":1.888, 
+    "measurementDate": "2019-01-29T09:00:30.018Z" },
+
+    { 
+    "cellID": 11, 
+    "intervalVoltage":10, 
+    "measurement":1.892, 
+    "measurementDate": "2019-01-29T10:00:30.018Z" },
+
+    { 
+    "cellID": 11, 
+    "intervalVoltage":11, 
+    "measurement":1.892, 
+    "measurementDate": "2019-01-29T11:00:30.018Z" },
+
+    { 
+    "cellID": 11, 
+    "intervalVoltage":12, 
+    "measurement":1.901, 
+    "measurementDate": "2019-01-29T12:00:30.018Z" },
+
+    { 
+    "cellID": 11, 
+    "intervalVoltage":13, 
+    "measurement":1.892, 
+    "measurementDate": "2019-01-29T13:00:30.018Z" },
+
+    { 
+    "cellID": 11, 
+    "intervalVoltage":14, 
+    "measurement":1.916, 
+    "measurementDate": "2019-01-29T14:00:30.018Z" },
+
+    { 
+    "cellID": 11, 
+    "intervalVoltage":15, 
+    "measurement":1.891, 
+    "measurementDate": "2019-01-29T15:00:30.018Z" },
+
+    { 
+    "cellID": 11, 
+    "intervalVoltage":16, 
+    "measurement":1.875, 
+    "measurementDate": "2019-01-29T16:00:30.018Z" },
+
+    { 
+    "cellID": 11, 
+    "intervalVoltage":17, 
+    "measurement":1.855, 
+    "measurementDate": "2019-01-29T17:00:30.018Z" },
+
+    { 
+    "cellID": 12, 
+    "intervalVoltage":1, 
+    "measurement":2.239, 
+    "measurementDate": "2019-01-29T01:00:30.018Z" },
+
+    { 
+    "cellID": 12, 
+    "intervalVoltage":2, 
+    "measurement":1.906, 
+    "measurementDate": "2019-01-29T02:00:30.018Z" },
+
+    { 
+    "cellID": 12, 
+    "intervalVoltage":3, 
+    "measurement":1.925, 
+    "measurementDate": "2019-01-29T03:00:30.018Z" },
+
+    { 
+    "cellID": 12, 
+    "intervalVoltage":4, 
+    "measurement":1.919, 
+    "measurementDate": "2019-01-29T04:00:30.018Z" },
+
+    { 
+    "cellID": 12, 
+    "intervalVoltage":5, 
+    "measurement":1.921, 
+    "measurementDate": "2019-01-29T05:00:30.018Z" },
+
+    { 
+    "cellID": 12, 
+    "intervalVoltage":6, 
+    "measurement":1.911, 
+    "measurementDate": "2019-01-29T06:00:30.018Z" },
+
+    { 
+    "cellID": 12, 
+    "intervalVoltage":7, 
+    "measurement":1.888, 
+    "measurementDate": "2019-01-29T07:00:30.018Z" },
+
+    { 
+    "cellID": 12, 
+    "intervalVoltage":8, 
+    "measurement":1.942, 
+    "measurementDate": "2019-01-29T08:00:30.018Z" },
+
+    { 
+    "cellID": 12, 
+    "intervalVoltage":9, 
+    "measurement":1.922, 
+    "measurementDate": "2019-01-29T09:00:30.018Z" },
+
+    { 
+    "cellID": 12, 
+    "intervalVoltage":10, 
+    "measurement":1.929, 
+    "measurementDate": "2019-01-29T10:00:30.018Z" },
+
+    { 
+    "cellID": 12, 
+    "intervalVoltage":11, 
+    "measurement":1.916, 
+    "measurementDate": "2019-01-29T11:00:30.018Z" },
+
+    { 
+    "cellID": 12, 
+    "intervalVoltage":12, 
+    "measurement":1.891, 
+    "measurementDate": "2019-01-29T12:00:30.018Z" },
+
+    { 
+    "cellID": 12, 
+    "intervalVoltage":13, 
+    "measurement":1.890, 
+    "measurementDate": "2019-01-29T13:00:30.018Z" },
+
+    { 
+    "cellID": 12, 
+    "intervalVoltage":14, 
+    "measurement":1.862, 
+    "measurementDate": "2019-01-29T14:00:30.018Z" },
+
+    { 
+    "cellID": 12, 
+    "intervalVoltage":15, 
+    "measurement":1.876, 
+    "measurementDate": "2019-01-29T15:00:30.018Z" },
+
+    { 
+    "cellID": 12, 
+    "intervalVoltage":16, 
+    "measurement":1.874, 
+    "measurementDate": "2019-01-29T16:00:30.018Z" },
+
+    { 
+    "cellID": 12, 
+    "intervalVoltage":17, 
+    "measurement":1.857, 
+    "measurementDate": "2019-01-29T17:00:30.018Z" },
+
+    { 
+    "cellID": 13, 
+    "intervalVoltage":1, 
+    "measurement":2.242, 
+    "measurementDate": "2019-01-29T01:00:30.018Z" },
+
+    { 
+    "cellID": 13, 
+    "intervalVoltage":2, 
+    "measurement":1.905, 
+    "measurementDate": "2019-01-29T02:00:30.018Z" },
+
+    { 
+    "cellID": 13, 
+    "intervalVoltage":3, 
+    "measurement":1.892, 
+    "measurementDate": "2019-01-29T03:00:30.018Z" },
+
+    { 
+    "cellID": 13, 
+    "intervalVoltage":4, 
+    "measurement":1.903, 
+    "measurementDate": "2019-01-29T04:00:30.018Z" },
+
+    { 
+    "cellID": 13, 
+    "intervalVoltage":5, 
+    "measurement":1.912, 
+    "measurementDate": "2019-01-29T05:00:30.018Z" },
+
+    { 
+    "cellID": 13, 
+    "intervalVoltage":6, 
+    "measurement":1.917, 
+    "measurementDate": "2019-01-29T06:00:30.018Z" },
+
+    { 
+    "cellID": 13, 
+    "intervalVoltage":7, 
+    "measurement":1.921, 
+    "measurementDate": "2019-01-29T07:00:30.018Z" },
+
+    { 
+    "cellID": 13, 
+    "intervalVoltage":8, 
+    "measurement":1.899, 
+    "measurementDate": "2019-01-29T08:00:30.018Z" },
+
+    { 
+    "cellID": 13, 
+    "intervalVoltage":9, 
+    "measurement":1.907, 
+    "measurementDate": "2019-01-29T09:00:30.018Z" },
+
+    { 
+    "cellID": 13, 
+    "intervalVoltage":10, 
+    "measurement":1.899, 
+    "measurementDate": "2019-01-29T10:00:30.018Z" },
+
+    { 
+    "cellID": 13, 
+    "intervalVoltage":11, 
+    "measurement":1.880, 
+    "measurementDate": "2019-01-29T11:00:30.018Z" },
+
+    { 
+    "cellID": 13, 
+    "intervalVoltage":12, 
+    "measurement":1.904, 
+    "measurementDate": "2019-01-29T12:00:30.018Z" },
+
+    { 
+    "cellID": 13, 
+    "intervalVoltage":13, 
+    "measurement":1.891, 
+    "measurementDate": "2019-01-29T13:00:30.018Z" },
+
+    { 
+    "cellID": 13, 
+    "intervalVoltage":14, 
+    "measurement":1.879, 
+    "measurementDate": "2019-01-29T14:00:30.018Z" },
+
+    { 
+    "cellID": 13, 
+    "intervalVoltage":15, 
+    "measurement":1.857, 
+    "measurementDate": "2019-01-29T15:00:30.018Z" },
+
+    { 
+    "cellID": 13, 
+    "intervalVoltage":16, 
+    "measurement":1.845, 
+    "measurementDate": "2019-01-29T16:00:30.018Z" },
+
+    { 
+    "cellID": 13, 
+    "intervalVoltage":17, 
+    "measurement":1.834, 
+    "measurementDate": "2019-01-29T17:00:30.018Z" },
+
+    { 
+    "cellID": 14, 
+    "intervalVoltage":1, 
+    "measurement":2.262, 
+    "measurementDate": "2019-01-29T01:00:30.018Z" },
+
+    { 
+    "cellID": 14, 
+    "intervalVoltage":2, 
+    "measurement":1.907, 
+    "measurementDate": "2019-01-29T02:00:30.018Z" },
+
+    { 
+    "cellID": 14, 
+    "intervalVoltage":3, 
+    "measurement":1.887, 
+    "measurementDate": "2019-01-29T03:00:30.018Z" },
+
+    { 
+    "cellID": 14, 
+    "intervalVoltage":4, 
+    "measurement":1.865, 
+    "measurementDate": "2019-01-29T04:00:30.018Z" },
+
+    { 
+    "cellID": 14, 
+    "intervalVoltage":5, 
+    "measurement":1.902, 
+    "measurementDate": "2019-01-29T05:00:30.018Z" },
+
+    { 
+    "cellID": 14, 
+    "intervalVoltage":6, 
+    "measurement":1.834, 
+    "measurementDate": "2019-01-29T06:00:30.018Z" },
+
+    { 
+    "cellID": 14, 
+    "intervalVoltage":7, 
+    "measurement":1.863, 
+    "measurementDate": "2019-01-29T07:00:30.018Z" },
+
+    { 
+    "cellID": 14, 
+    "intervalVoltage":8, 
+    "measurement":1.855, 
+    "measurementDate": "2019-01-29T08:00:30.018Z" },
+
+    { 
+    "cellID": 14, 
+    "intervalVoltage":9, 
+    "measurement":1.880, 
+    "measurementDate": "2019-01-29T09:00:30.018Z" },
+
+    { 
+    "cellID": 14, 
+    "intervalVoltage":10, 
+    "measurement":1.841, 
+    "measurementDate": "2019-01-29T10:00:30.018Z" },
+
+    { 
+    "cellID": 14, 
+    "intervalVoltage":11, 
+    "measurement":1.836, 
+    "measurementDate": "2019-01-29T11:00:30.018Z" },
+
+    { 
+    "cellID": 14, 
+    "intervalVoltage":12, 
+    "measurement":1.784, 
+    "measurementDate": "2019-01-29T12:00:30.018Z" },
+
+    { 
+    "cellID": 14, 
+    "intervalVoltage":13, 
+    "measurement":1.832, 
+    "measurementDate": "2019-01-29T13:00:30.018Z" },
+
+    { 
+    "cellID": 14, 
+    "intervalVoltage":14, 
+    "measurement":1.792, 
+    "measurementDate": "2019-01-29T14:00:30.018Z" },
+
+    { 
+    "cellID": 14, 
+    "intervalVoltage":15, 
+    "measurement":1.826, 
+    "measurementDate": "2019-01-29T15:00:30.018Z" },
+
+    { 
+    "cellID": 14, 
+    "intervalVoltage":16, 
+    "measurement":1.820, 
+    "measurementDate": "2019-01-29T16:00:30.018Z" },
+
+    { 
+    "cellID": 14, 
+    "intervalVoltage":17, 
+    "measurement":1.815, 
+    "measurementDate": "2019-01-29T17:00:30.018Z" },
+
+    { 
+    "cellID": 15, 
+    "intervalVoltage":1, 
+    "measurement":2.266, 
+    "measurementDate": "2019-01-29T01:00:30.018Z" },
+
+    { 
+    "cellID": 15, 
+    "intervalVoltage":2, 
+    "measurement":1.881, 
+    "measurementDate": "2019-01-29T02:00:30.018Z" },
+
+    { 
+    "cellID": 15, 
+    "intervalVoltage":3, 
+    "measurement":1.868, 
+    "measurementDate": "2019-01-29T03:00:30.018Z" },
+
+    { 
+    "cellID": 15, 
+    "intervalVoltage":4, 
+    "measurement":1.919, 
+    "measurementDate": "2019-01-29T04:00:30.018Z" },
+
+    { 
+    "cellID": 15, 
+    "intervalVoltage":5, 
+    "measurement":1.932, 
+    "measurementDate": "2019-01-29T05:00:30.018Z" },
+
+    { 
+    "cellID": 15, 
+    "intervalVoltage":6, 
+    "measurement":1.934, 
+    "measurementDate": "2019-01-29T06:00:30.018Z" },
+
+    { 
+    "cellID": 15, 
+    "intervalVoltage":7, 
+    "measurement":1.930, 
+    "measurementDate": "2019-01-29T07:00:30.018Z" },
+
+    { 
+    "cellID": 15, 
+    "intervalVoltage":8, 
+    "measurement":1.919, 
+    "measurementDate": "2019-01-29T08:00:30.018Z" },
+
+    { 
+    "cellID": 15, 
+    "intervalVoltage":9, 
+    "measurement":1.880, 
+    "measurementDate": "2019-01-29T09:00:30.018Z" },
+
+    { 
+    "cellID": 15, 
+    "intervalVoltage":10, 
+    "measurement":1.945, 
+    "measurementDate": "2019-01-29T10:00:30.018Z" },
+
+    { 
+    "cellID": 15, 
+    "intervalVoltage":11, 
+    "measurement":1.882, 
+    "measurementDate": "2019-01-29T11:00:30.018Z" },
+
+    { 
+    "cellID": 15, 
+    "intervalVoltage":12, 
+    "measurement":1.941, 
+    "measurementDate": "2019-01-29T12:00:30.018Z" },
+
+    { 
+    "cellID": 15, 
+    "intervalVoltage":13, 
+    "measurement":1.874, 
+    "measurementDate": "2019-01-29T13:00:30.018Z" },
+
+    { 
+    "cellID": 15, 
+    "intervalVoltage":14, 
+    "measurement":1.857, 
+    "measurementDate": "2019-01-29T14:00:30.018Z" },
+
+    { 
+    "cellID": 15, 
+    "intervalVoltage":15, 
+    "measurement":1.858, 
+    "measurementDate": "2019-01-29T15:00:30.018Z" },
+
+    { 
+    "cellID": 15, 
+    "intervalVoltage":16, 
+    "measurement":1.853, 
+    "measurementDate": "2019-01-29T16:00:30.018Z" },
+
+    { 
+    "cellID": 15, 
+    "intervalVoltage":17, 
+    "measurement":1.836, 
+    "measurementDate": "2019-01-29T17:00:30.018Z" },
+
+    { 
+    "cellID": 16, 
+    "intervalVoltage":1, 
+    "measurement":2.264, 
+    "measurementDate": "2019-01-29T01:00:30.018Z" },
+
+    { 
+    "cellID": 16, 
+    "intervalVoltage":2, 
+    "measurement":1.924, 
+    "measurementDate": "2019-01-29T02:00:30.018Z" },
+
+    { 
+    "cellID": 16, 
+    "intervalVoltage":3, 
+    "measurement":1.948, 
+    "measurementDate": "2019-01-29T03:00:30.018Z" },
+
+    { 
+    "cellID": 16, 
+    "intervalVoltage":4, 
+    "measurement":1.931, 
+    "measurementDate": "2019-01-29T04:00:30.018Z" },
+
+    { 
+    "cellID": 16, 
+    "intervalVoltage":5, 
+    "measurement":1.877, 
+    "measurementDate": "2019-01-29T05:00:30.018Z" },
+
+    { 
+    "cellID": 16, 
+    "intervalVoltage":6, 
+    "measurement":1.909, 
+    "measurementDate": "2019-01-29T06:00:30.018Z" },
+
+    { 
+    "cellID": 16, 
+    "intervalVoltage":7, 
+    "measurement":1.918, 
+    "measurementDate": "2019-01-29T07:00:30.018Z" },
+
+    { 
+    "cellID": 16, 
+    "intervalVoltage":8, 
+    "measurement":1.931, 
+    "measurementDate": "2019-01-29T08:00:30.018Z" },
+
+    { 
+    "cellID": 16, 
+    "intervalVoltage":9, 
+    "measurement":1.943, 
+    "measurementDate": "2019-01-29T09:00:30.018Z" },
+
+    { 
+    "cellID": 16, 
+    "intervalVoltage":10, 
+    "measurement":1.883, 
+    "measurementDate": "2019-01-29T10:00:30.018Z" },
+
+    { 
+    "cellID": 16, 
+    "intervalVoltage":11, 
+    "measurement":1.896, 
+    "measurementDate": "2019-01-29T11:00:30.018Z" },
+
+    { 
+    "cellID": 16, 
+    "intervalVoltage":12, 
+    "measurement":1.869, 
+    "measurementDate": "2019-01-29T12:00:30.018Z" },
+
+    { 
+    "cellID": 16, 
+    "intervalVoltage":13, 
+    "measurement":1.894, 
+    "measurementDate": "2019-01-29T13:00:30.018Z" },
+
+    { 
+    "cellID": 16, 
+    "intervalVoltage":14, 
+    "measurement":1.955, 
+    "measurementDate": "2019-01-29T14:00:30.018Z" },
+
+    { 
+    "cellID": 16, 
+    "intervalVoltage":15, 
+    "measurement":1.852, 
+    "measurementDate": "2019-01-29T15:00:30.018Z" },
+
+    { 
+    "cellID": 16, 
+    "intervalVoltage":16, 
+    "measurement":1.871, 
+    "measurementDate": "2019-01-29T16:00:30.018Z" },
+
+    { 
+    "cellID": 16, 
+    "intervalVoltage":17, 
+    "measurement":1.867, 
+    "measurementDate": "2019-01-29T17:00:30.018Z" },
+
+    { 
+    "cellID": 17, 
+    "intervalVoltage":1, 
+    "measurement":2.272, 
+    "measurementDate": "2019-01-29T01:00:30.018Z" },
+
+    { 
+    "cellID": 17, 
+    "intervalVoltage":2, 
+    "measurement":1.894, 
+    "measurementDate": "2019-01-29T02:00:30.018Z" },
+
+    { 
+    "cellID": 17, 
+    "intervalVoltage":3, 
+    "measurement":1.864, 
+    "measurementDate": "2019-01-29T03:00:30.018Z" },
+
+    { 
+    "cellID": 17, 
+    "intervalVoltage":4, 
+    "measurement":1.883, 
+    "measurementDate": "2019-01-29T04:00:30.018Z" },
+
+    { 
+    "cellID": 17, 
+    "intervalVoltage":5, 
+    "measurement":1.899, 
+    "measurementDate": "2019-01-29T05:00:30.018Z" },
+
+    { 
+    "cellID": 17, 
+    "intervalVoltage":6, 
+    "measurement":1.940, 
+    "measurementDate": "2019-01-29T06:00:30.018Z" },
+
+    { 
+    "cellID": 17, 
+    "intervalVoltage":7, 
+    "measurement":1.889, 
+    "measurementDate": "2019-01-29T07:00:30.018Z" },
+
+    { 
+    "cellID": 17, 
+    "intervalVoltage":8, 
+    "measurement":1.915, 
+    "measurementDate": "2019-01-29T08:00:30.018Z" },
+
+    { 
+    "cellID": 17, 
+    "intervalVoltage":9, 
+    "measurement":1.883, 
+    "measurementDate": "2019-01-29T09:00:30.018Z" },
+
+    { 
+    "cellID": 17, 
+    "intervalVoltage":10, 
+    "measurement":1.901, 
+    "measurementDate": "2019-01-29T10:00:30.018Z" },
+
+    { 
+    "cellID": 17, 
+    "intervalVoltage":11, 
+    "measurement":1.905, 
+    "measurementDate": "2019-01-29T11:00:30.018Z" },
+
+    { 
+    "cellID": 17, 
+    "intervalVoltage":12, 
+    "measurement":1.869, 
+    "measurementDate": "2019-01-29T12:00:30.018Z" },
+
+    { 
+    "cellID": 17, 
+    "intervalVoltage":13, 
+    "measurement":1.862, 
+    "measurementDate": "2019-01-29T13:00:30.018Z" },
+
+    { 
+    "cellID": 17, 
+    "intervalVoltage":14, 
+    "measurement":1.864, 
+    "measurementDate": "2019-01-29T14:00:30.018Z" },
+
+    { 
+    "cellID": 17, 
+    "intervalVoltage":15, 
+    "measurement":1.877, 
+    "measurementDate": "2019-01-29T15:00:30.018Z" },
+
+    { 
+    "cellID": 17, 
+    "intervalVoltage":16, 
+    "measurement":1.843, 
+    "measurementDate": "2019-01-29T16:00:30.018Z" },
+
+    { 
+    "cellID": 17, 
+    "intervalVoltage":17, 
+    "measurement":1.806, 
+    "measurementDate": "2019-01-29T17:00:30.018Z" },
+
+    { 
+    "cellID": 18, 
+    "intervalVoltage":1, 
+    "measurement":2.269, 
+    "measurementDate": "2019-01-29T01:00:30.018Z" },
+
+    { 
+    "cellID": 18, 
+    "intervalVoltage":2, 
+    "measurement":1.769, 
+    "measurementDate": "2019-01-29T02:00:30.018Z" },
+
+    { 
+    "cellID": 18, 
+    "intervalVoltage":3, 
+    "measurement":1.793, 
+    "measurementDate": "2019-01-29T03:00:30.018Z" },
+
+    { 
+    "cellID": 18, 
+    "intervalVoltage":4, 
+    "measurement":1.818, 
+    "measurementDate": "2019-01-29T04:00:30.018Z" },
+
+    { 
+    "cellID": 18, 
+    "intervalVoltage":5, 
+    "measurement":1.810, 
+    "measurementDate": "2019-01-29T05:00:30.018Z" },
+
+    { 
+    "cellID": 18, 
+    "intervalVoltage":6, 
+    "measurement":1.821, 
+    "measurementDate": "2019-01-29T06:00:30.018Z" },
+
+    { 
+    "cellID": 18, 
+    "intervalVoltage":7, 
+    "measurement":1.824, 
+    "measurementDate": "2019-01-29T07:00:30.018Z" },
+
+    { 
+    "cellID": 18, 
+    "intervalVoltage":8, 
+    "measurement":1.745, 
+    "measurementDate": "2019-01-29T08:00:30.018Z" },
+
+    { 
+    "cellID": 18, 
+    "intervalVoltage":9, 
+    "measurement":1.769, 
+    "measurementDate": "2019-01-29T09:00:30.018Z" },
+
+    { 
+    "cellID": 18, 
+    "intervalVoltage":10, 
+    "measurement":1.755, 
+    "measurementDate": "2019-01-29T10:00:30.018Z" },
+
+    { 
+    "cellID": 18, 
+    "intervalVoltage":11, 
+    "measurement":1.803, 
+    "measurementDate": "2019-01-29T11:00:30.018Z" },
+
+    { 
+    "cellID": 18, 
+    "intervalVoltage":12, 
+    "measurement":1.793, 
+    "measurementDate": "2019-01-29T12:00:30.018Z" },
+
+    { 
+    "cellID": 18, 
+    "intervalVoltage":13, 
+    "measurement":1.710, 
+    "measurementDate": "2019-01-29T13:00:30.018Z" },
+
+    { 
+    "cellID": 18, 
+    "intervalVoltage":14, 
+    "measurement":1.721, 
+    "measurementDate": "2019-01-29T14:00:30.018Z" },
+
+    { 
+    "cellID": 18, 
+    "intervalVoltage":15, 
+    "measurement":1.763, 
+    "measurementDate": "2019-01-29T15:00:30.018Z" },
+
+    { 
+    "cellID": 18, 
+    "intervalVoltage":16, 
+    "measurement":1.699, 
+    "measurementDate": "2019-01-29T16:00:30.018Z" },
+
+    { 
+    "cellID": 18, 
+    "intervalVoltage":17, 
+    "measurement":1.761, 
+    "measurementDate": "2019-01-29T17:00:30.018Z" },
+
+    { 
+    "cellID": 19, 
+    "intervalVoltage":1, 
+    "measurement":2.264, 
+    "measurementDate": "2019-01-29T01:00:30.018Z" },
+
+    { 
+    "cellID": 19, 
+    "intervalVoltage":2, 
+    "measurement":2.104, 
+    "measurementDate": "2019-01-29T02:00:30.018Z" },
+
+    { 
+    "cellID": 19, 
+    "intervalVoltage":3, 
+    "measurement":1.993, 
+    "measurementDate": "2019-01-29T03:00:30.018Z" },
+
+    { 
+    "cellID": 19, 
+    "intervalVoltage":4, 
+    "measurement":2.106, 
+    "measurementDate": "2019-01-29T04:00:30.018Z" },
+
+    { 
+    "cellID": 19, 
+    "intervalVoltage":5, 
+    "measurement":2.021, 
+    "measurementDate": "2019-01-29T05:00:30.018Z" },
+
+    { 
+    "cellID": 19, 
+    "intervalVoltage":6, 
+    "measurement":1.974, 
+    "measurementDate": "2019-01-29T06:00:30.018Z" },
+
+    { 
+    "cellID": 19, 
+    "intervalVoltage":7, 
+    "measurement":2.032, 
+    "measurementDate": "2019-01-29T07:00:30.018Z" },
+
+    { 
+    "cellID": 19, 
+    "intervalVoltage":8, 
+    "measurement":2.018, 
+    "measurementDate": "2019-01-29T08:00:30.018Z" },
+
+    { 
+    "cellID": 19, 
+    "intervalVoltage":9, 
+    "measurement":2.029, 
+    "measurementDate": "2019-01-29T09:00:30.018Z" },
+
+    { 
+    "cellID": 19, 
+    "intervalVoltage":10, 
+    "measurement":1.993, 
+    "measurementDate": "2019-01-29T10:00:30.018Z" },
+
+    { 
+    "cellID": 19, 
+    "intervalVoltage":11, 
+    "measurement":1.978, 
+    "measurementDate": "2019-01-29T11:00:30.018Z" },
+
+    { 
+    "cellID": 19, 
+    "intervalVoltage":12, 
+    "measurement":1.981, 
+    "measurementDate": "2019-01-29T12:00:30.018Z" },
+
+    { 
+    "cellID": 19, 
+    "intervalVoltage":13, 
+    "measurement":1.985, 
+    "measurementDate": "2019-01-29T13:00:30.018Z" },
+
+    { 
+    "cellID": 19, 
+    "intervalVoltage":14, 
+    "measurement":1.939, 
+    "measurementDate": "2019-01-29T14:00:30.018Z" },
+
+    { 
+    "cellID": 19, 
+    "intervalVoltage":15, 
+    "measurement":1.941, 
+    "measurementDate": "2019-01-29T15:00:30.018Z" },
+
+    { 
+    "cellID": 19, 
+    "intervalVoltage":16, 
+    "measurement":1.948, 
+    "measurementDate": "2019-01-29T16:00:30.018Z" },
+
+    { 
+    "cellID": 19, 
+    "intervalVoltage":17, 
+    "measurement":1.917, 
+    "measurementDate": "2019-01-29T17:00:30.018Z" },
+
+    { 
+    "cellID": 20, 
+    "intervalVoltage":1, 
+    "measurement":2.296, 
+    "measurementDate": "2019-01-29T01:00:30.018Z" },
+
+    { 
+    "cellID": 20, 
+    "intervalVoltage":2, 
+    "measurement":1.846, 
+    "measurementDate": "2019-01-29T02:00:30.018Z" },
+
+    { 
+    "cellID": 20, 
+    "intervalVoltage":3, 
+    "measurement":1.896, 
+    "measurementDate": "2019-01-29T03:00:30.018Z" },
+
+    { 
+    "cellID": 20, 
+    "intervalVoltage":4, 
+    "measurement":1.815, 
+    "measurementDate": "2019-01-29T04:00:30.018Z" },
+
+    { 
+    "cellID": 20, 
+    "intervalVoltage":5, 
+    "measurement":1.896, 
+    "measurementDate": "2019-01-29T05:00:30.018Z" },
+
+    { 
+    "cellID": 20, 
+    "intervalVoltage":6, 
+    "measurement":1.965, 
+    "measurementDate": "2019-01-29T06:00:30.018Z" },
+
+    { 
+    "cellID": 20, 
+    "intervalVoltage":7, 
+    "measurement":1.917, 
+    "measurementDate": "2019-01-29T07:00:30.018Z" },
+
+    { 
+    "cellID": 20, 
+    "intervalVoltage":8, 
+    "measurement":1.939, 
+    "measurementDate": "2019-01-29T08:00:30.018Z" },
+
+    { 
+    "cellID": 20, 
+    "intervalVoltage":9, 
+    "measurement":1.868, 
+    "measurementDate": "2019-01-29T09:00:30.018Z" },
+
+    { 
+    "cellID": 20, 
+    "intervalVoltage":10, 
+    "measurement":1.881, 
+    "measurementDate": "2019-01-29T10:00:30.018Z" },
+
+    { 
+    "cellID": 20, 
+    "intervalVoltage":11, 
+    "measurement":1.851, 
+    "measurementDate": "2019-01-29T11:00:30.018Z" },
+
+    { 
+    "cellID": 20, 
+    "intervalVoltage":12, 
+    "measurement":1.874, 
+    "measurementDate": "2019-01-29T12:00:30.018Z" },
+
+    { 
+    "cellID": 20, 
+    "intervalVoltage":13, 
+    "measurement":1.925, 
+    "measurementDate": "2019-01-29T13:00:30.018Z" },
+
+    { 
+    "cellID": 20, 
+    "intervalVoltage":14, 
+    "measurement":1.875, 
+    "measurementDate": "2019-01-29T14:00:30.018Z" },
+
+    { 
+    "cellID": 20, 
+    "intervalVoltage":15, 
+    "measurement":1.804, 
+    "measurementDate": "2019-01-29T15:00:30.018Z" },
+
+    { 
+    "cellID": 20, 
+    "intervalVoltage":16, 
+    "measurement":1.899, 
+    "measurementDate": "2019-01-29T16:00:30.018Z" },
+
+    { 
+    "cellID": 20, 
+    "intervalVoltage":17, 
+    "measurement":1.881, 
+    "measurementDate": "2019-01-29T17:00:30.018Z" },
+
+    { 
+    "cellID": 21, 
+    "intervalVoltage":1, 
+    "measurement":2.244, 
+    "measurementDate": "2019-01-29T01:00:30.018Z" },
+
+    { 
+    "cellID": 21, 
+    "intervalVoltage":2, 
+    "measurement":1.889, 
+    "measurementDate": "2019-01-29T02:00:30.018Z" },
+
+    { 
+    "cellID": 21, 
+    "intervalVoltage":3, 
+    "measurement":1.914, 
+    "measurementDate": "2019-01-29T03:00:30.018Z" },
+
+    { 
+    "cellID": 21, 
+    "intervalVoltage":4, 
+    "measurement":1.917, 
+    "measurementDate": "2019-01-29T04:00:30.018Z" },
+
+    { 
+    "cellID": 21, 
+    "intervalVoltage":5, 
+    "measurement":1.894, 
+    "measurementDate": "2019-01-29T05:00:30.018Z" },
+
+    { 
+    "cellID": 21, 
+    "intervalVoltage":6, 
+    "measurement":1.849, 
+    "measurementDate": "2019-01-29T06:00:30.018Z" },
+
+    { 
+    "cellID": 21, 
+    "intervalVoltage":7, 
+    "measurement":1.834, 
+    "measurementDate": "2019-01-29T07:00:30.018Z" },
+
+    { 
+    "cellID": 21, 
+    "intervalVoltage":8, 
+    "measurement":1.813, 
+    "measurementDate": "2019-01-29T08:00:30.018Z" },
+
+    { 
+    "cellID": 21, 
+    "intervalVoltage":9, 
+    "measurement":1.890, 
+    "measurementDate": "2019-01-29T09:00:30.018Z" },
+
+    { 
+    "cellID": 21, 
+    "intervalVoltage":10, 
+    "measurement":1.899, 
+    "measurementDate": "2019-01-29T10:00:30.018Z" },
+
+    { 
+    "cellID": 21, 
+    "intervalVoltage":11, 
+    "measurement":1.861, 
+    "measurementDate": "2019-01-29T11:00:30.018Z" },
+
+    { 
+    "cellID": 21, 
+    "intervalVoltage":12, 
+    "measurement":1.861, 
+    "measurementDate": "2019-01-29T12:00:30.018Z" },
+
+    { 
+    "cellID": 21, 
+    "intervalVoltage":13, 
+    "measurement":1.762, 
+    "measurementDate": "2019-01-29T13:00:30.018Z" },
+
+    { 
+    "cellID": 21, 
+    "intervalVoltage":14, 
+    "measurement":1.819, 
+    "measurementDate": "2019-01-29T14:00:30.018Z" },
+
+    { 
+    "cellID": 21, 
+    "intervalVoltage":15, 
+    "measurement":1.854, 
+    "measurementDate": "2019-01-29T15:00:30.018Z" },
+
+    { 
+    "cellID": 21, 
+    "intervalVoltage":16, 
+    "measurement":1.780, 
+    "measurementDate": "2019-01-29T16:00:30.018Z" },
+
+    { 
+    "cellID": 21, 
+    "intervalVoltage":17, 
+    "measurement":1.789, 
+    "measurementDate": "2019-01-29T17:00:30.018Z" },
+
+    { 
+    "cellID": 22, 
+    "intervalVoltage":1, 
+    "measurement":2.295, 
+    "measurementDate": "2019-01-29T01:00:30.018Z" },
+
+    { 
+    "cellID": 22, 
+    "intervalVoltage":2, 
+    "measurement":1.890, 
+    "measurementDate": "2019-01-29T02:00:30.018Z" },
+
+    { 
+    "cellID": 22, 
+    "intervalVoltage":3, 
+    "measurement":1.926, 
+    "measurementDate": "2019-01-29T03:00:30.018Z" },
+
+    { 
+    "cellID": 22, 
+    "intervalVoltage":4, 
+    "measurement":1.932, 
+    "measurementDate": "2019-01-29T04:00:30.018Z" },
+
+    { 
+    "cellID": 22, 
+    "intervalVoltage":5, 
+    "measurement":1.942, 
+    "measurementDate": "2019-01-29T05:00:30.018Z" },
+
+    { 
+    "cellID": 22, 
+    "intervalVoltage":6, 
+    "measurement":1.896, 
+    "measurementDate": "2019-01-29T06:00:30.018Z" },
+
+    { 
+    "cellID": 22, 
+    "intervalVoltage":7, 
+    "measurement":1.952, 
+    "measurementDate": "2019-01-29T07:00:30.018Z" },
+
+    { 
+    "cellID": 22, 
+    "intervalVoltage":8, 
+    "measurement":1.947, 
+    "measurementDate": "2019-01-29T08:00:30.018Z" },
+
+    { 
+    "cellID": 22, 
+    "intervalVoltage":9, 
+    "measurement":1.922, 
+    "measurementDate": "2019-01-29T09:00:30.018Z" },
+
+    { 
+    "cellID": 22, 
+    "intervalVoltage":10, 
+    "measurement":1.846, 
+    "measurementDate": "2019-01-29T10:00:30.018Z" },
+
+    { 
+    "cellID": 22, 
+    "intervalVoltage":11, 
+    "measurement":1.933, 
+    "measurementDate": "2019-01-29T11:00:30.018Z" },
+
+    { 
+    "cellID": 22, 
+    "intervalVoltage":12, 
+    "measurement":1.872, 
+    "measurementDate": "2019-01-29T12:00:30.018Z" },
+
+    { 
+    "cellID": 22, 
+    "intervalVoltage":13, 
+    "measurement":1.998, 
+    "measurementDate": "2019-01-29T13:00:30.018Z" },
+
+    { 
+    "cellID": 22, 
+    "intervalVoltage":14, 
+    "measurement":1.940, 
+    "measurementDate": "2019-01-29T14:00:30.018Z" },
+
+    { 
+    "cellID": 22, 
+    "intervalVoltage":15, 
+    "measurement":1.940, 
+    "measurementDate": "2019-01-29T15:00:30.018Z" },
+
+    { 
+    "cellID": 22, 
+    "intervalVoltage":16, 
+    "measurement":1.923, 
+    "measurementDate": "2019-01-29T16:00:30.018Z" },
+
+    { 
+    "cellID": 22, 
+    "intervalVoltage":17, 
+    "measurement":1.832, 
+    "measurementDate": "2019-01-29T17:00:30.018Z" },
+
+    { 
+    "cellID": 23, 
+    "intervalVoltage":1, 
+    "measurement":2.294, 
+    "measurementDate": "2019-01-29T01:00:30.018Z" },
+
+    { 
+    "cellID": 23, 
+    "intervalVoltage":2, 
+    "measurement":1.966, 
+    "measurementDate": "2019-01-29T02:00:30.018Z" },
+
+    { 
+    "cellID": 23, 
+    "intervalVoltage":3, 
+    "measurement":1.863, 
+    "measurementDate": "2019-01-29T03:00:30.018Z" },
+
+    { 
+    "cellID": 23, 
+    "intervalVoltage":4, 
+    "measurement":1.856, 
+    "measurementDate": "2019-01-29T04:00:30.018Z" },
+
+    { 
+    "cellID": 23, 
+    "intervalVoltage":5, 
+    "measurement":1.846, 
+    "measurementDate": "2019-01-29T05:00:30.018Z" },
+
+    { 
+    "cellID": 23, 
+    "intervalVoltage":6, 
+    "measurement":1.941, 
+    "measurementDate": "2019-01-29T06:00:30.018Z" },
+
+    { 
+    "cellID": 23, 
+    "intervalVoltage":7, 
+    "measurement":1.872, 
+    "measurementDate": "2019-01-29T07:00:30.018Z" },
+
+    { 
+    "cellID": 23, 
+    "intervalVoltage":8, 
+    "measurement":1.924, 
+    "measurementDate": "2019-01-29T08:00:30.018Z" },
+
+    { 
+    "cellID": 23, 
+    "intervalVoltage":9, 
+    "measurement":1.899, 
+    "measurementDate": "2019-01-29T09:00:30.018Z" },
+
+    { 
+    "cellID": 23, 
+    "intervalVoltage":10, 
+    "measurement":1.997, 
+    "measurementDate": "2019-01-29T10:00:30.018Z" },
+
+    { 
+    "cellID": 23, 
+    "intervalVoltage":11, 
+    "measurement":1.934, 
+    "measurementDate": "2019-01-29T11:00:30.018Z" },
+
+    { 
+    "cellID": 23, 
+    "intervalVoltage":12, 
+    "measurement":1.934, 
+    "measurementDate": "2019-01-29T12:00:30.018Z" },
+
+    { 
+    "cellID": 23, 
+    "intervalVoltage":13, 
+    "measurement":1.848, 
+    "measurementDate": "2019-01-29T13:00:30.018Z" },
+
+    { 
+    "cellID": 23, 
+    "intervalVoltage":14, 
+    "measurement":1.880, 
+    "measurementDate": "2019-01-29T14:00:30.018Z" },
+
+    { 
+    "cellID": 23, 
+    "intervalVoltage":15, 
+    "measurement":1.854, 
+    "measurementDate": "2019-01-29T15:00:30.018Z" },
+
+    { 
+    "cellID": 23, 
+    "intervalVoltage":16, 
+    "measurement":1.873, 
+    "measurementDate": "2019-01-29T16:00:30.018Z" },
+
+    { 
+    "cellID": 23, 
+    "intervalVoltage":17, 
+    "measurement":1.834, 
+    "measurementDate": "2019-01-29T17:00:30.018Z" },
+
+    { 
+    "cellID": 24, 
+    "intervalVoltage":1, 
+    "measurement":2.296, 
+    "measurementDate": "2019-01-29T01:00:30.018Z" },
+
+    { 
+    "cellID": 24, 
+    "intervalVoltage":2, 
+    "measurement":1.873, 
+    "measurementDate": "2019-01-29T02:00:30.018Z" },
+
+    { 
+    "cellID": 24, 
+    "intervalVoltage":3, 
+    "measurement":1.909, 
+    "measurementDate": "2019-01-29T03:00:30.018Z" },
+
+    { 
+    "cellID": 24, 
+    "intervalVoltage":4, 
+    "measurement":1.920, 
+    "measurementDate": "2019-01-29T04:00:30.018Z" },
+
+    { 
+    "cellID": 24, 
+    "intervalVoltage":5, 
+    "measurement":1.956, 
+    "measurementDate": "2019-01-29T05:00:30.018Z" },
+
+    { 
+    "cellID": 24, 
+    "intervalVoltage":6, 
+    "measurement":1.966, 
+    "measurementDate": "2019-01-29T06:00:30.018Z" },
+
+    { 
+    "cellID": 24, 
+    "intervalVoltage":7, 
+    "measurement":1.953, 
+    "measurementDate": "2019-01-29T07:00:30.018Z" },
+
+    { 
+    "cellID": 24, 
+    "intervalVoltage":8, 
+    "measurement":1.900, 
+    "measurementDate": "2019-01-29T08:00:30.018Z" },
+
+    { 
+    "cellID": 24, 
+    "intervalVoltage":9, 
+    "measurement":1.907, 
+    "measurementDate": "2019-01-29T09:00:30.018Z" },
+
+    { 
+    "cellID": 24, 
+    "intervalVoltage":10, 
+    "measurement":1.854, 
+    "measurementDate": "2019-01-29T10:00:30.018Z" },
+
+    { 
+    "cellID": 24, 
+    "intervalVoltage":11, 
+    "measurement":1.815, 
+    "measurementDate": "2019-01-29T11:00:30.018Z" },
+
+    { 
+    "cellID": 24, 
+    "intervalVoltage":12, 
+    "measurement":1.842, 
+    "measurementDate": "2019-01-29T12:00:30.018Z" },
+
+    { 
+    "cellID": 24, 
+    "intervalVoltage":13, 
+    "measurement":1.903, 
+    "measurementDate": "2019-01-29T13:00:30.018Z" },
+
+    { 
+    "cellID": 24, 
+    "intervalVoltage":14, 
+    "measurement":1.887, 
+    "measurementDate": "2019-01-29T14:00:30.018Z" },
+
+    { 
+    "cellID": 24, 
+    "intervalVoltage":15, 
+    "measurement":1.825, 
+    "measurementDate": "2019-01-29T15:00:30.018Z" },
+
+    { 
+    "cellID": 24, 
+    "intervalVoltage":16, 
+    "measurement":1.825, 
+    "measurementDate": "2019-01-29T16:00:30.018Z" },
+
+    { 
+    "cellID": 24, 
+    "intervalVoltage":17, 
+    "measurement":1.929, 
+    "measurementDate": "2019-01-29T17:00:30.018Z" },
+
+    { 
+    "cellID": 25, 
+    "intervalVoltage":1, 
+    "measurement":2.306, 
+    "measurementDate": "2019-01-29T01:00:30.018Z" },
+
+    { 
+    "cellID": 25, 
+    "intervalVoltage":2, 
+    "measurement":1.862, 
+    "measurementDate": "2019-01-29T02:00:30.018Z" },
+
+    { 
+    "cellID": 25, 
+    "intervalVoltage":3, 
+    "measurement":1.971, 
+    "measurementDate": "2019-01-29T03:00:30.018Z" },
+
+    { 
+    "cellID": 25, 
+    "intervalVoltage":4, 
+    "measurement":1.869, 
+    "measurementDate": "2019-01-29T04:00:30.018Z" },
+
+    { 
+    "cellID": 25, 
+    "intervalVoltage":5, 
+    "measurement":1.891, 
+    "measurementDate": "2019-01-29T05:00:30.018Z" },
+
+    { 
+    "cellID": 25, 
+    "intervalVoltage":6, 
+    "measurement":1.906, 
+    "measurementDate": "2019-01-29T06:00:30.018Z" },
+
+    { 
+    "cellID": 25, 
+    "intervalVoltage":7, 
+    "measurement":1.934, 
+    "measurementDate": "2019-01-29T07:00:30.018Z" },
+
+    { 
+    "cellID": 25, 
+    "intervalVoltage":8, 
+    "measurement":1.963, 
+    "measurementDate": "2019-01-29T08:00:30.018Z" },
+
+    { 
+    "cellID": 25, 
+    "intervalVoltage":9, 
+    "measurement":1.931, 
+    "measurementDate": "2019-01-29T09:00:30.018Z" },
+
+    { 
+    "cellID": 25, 
+    "intervalVoltage":10, 
+    "measurement":1.948, 
+    "measurementDate": "2019-01-29T10:00:30.018Z" },
+
+    { 
+    "cellID": 25, 
+    "intervalVoltage":11, 
+    "measurement":1.934, 
+    "measurementDate": "2019-01-29T11:00:30.018Z" },
+
+    { 
+    "cellID": 25, 
+    "intervalVoltage":12, 
+    "measurement":1.857, 
+    "measurementDate": "2019-01-29T12:00:30.018Z" },
+
+    { 
+    "cellID": 25, 
+    "intervalVoltage":13, 
+    "measurement":1.863, 
+    "measurementDate": "2019-01-29T13:00:30.018Z" },
+
+    { 
+    "cellID": 25, 
+    "intervalVoltage":14, 
+    "measurement":1.844, 
+    "measurementDate": "2019-01-29T14:00:30.018Z" },
+
+    { 
+    "cellID": 25, 
+    "intervalVoltage":15, 
+    "measurement":1.905, 
+    "measurementDate": "2019-01-29T15:00:30.018Z" },
+
+    { 
+    "cellID": 25, 
+    "intervalVoltage":16, 
+    "measurement":1.863, 
+    "measurementDate": "2019-01-29T16:00:30.018Z" },
+
+    { 
+    "cellID": 25, 
+    "intervalVoltage":17, 
+    "measurement":1.889, 
+    "measurementDate": "2019-01-29T17:00:30.018Z" }
+
+]

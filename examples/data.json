@@ -1,0 +1,30 @@
+[
+    {
+        "employee_id": 1,
+        "first_name": "John",
+        "last_name": "Doe",
+        "email": "john.doe@example.com",
+        "department": "Sales"
+    },
+    {
+        "employee_id": 2,
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "email": "jane.smith@example.com",
+        "department": "Marketing"
+    },
+    {
+        "employee_id": 3,
+        "first_name": "Bob",
+        "last_name": "Johnson",
+        "email": "bob.johnson@example.com",
+        "department": "Development"
+    },
+    {
+        "employee_id": 4,
+        "first_name": "Alice",
+        "last_name": "Brown",
+        "email": "alice.brown@example.com",
+        "department": "Support"
+    }
+]
