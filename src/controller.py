@@ -47,6 +47,8 @@ class Controller():
             df = self.parse_csv()
         elif self.file_type == 'XML file':
             df = self.parse_xml()
+        elif self.file_type == 'PDF file':
+            self.show_pdf()
         elif self.file_type == 'Excel file':
             df = self.parse_excel()
         elif self.file_type == 'JSON file':
@@ -155,9 +157,21 @@ class Controller():
             '.xml': 'XML file',
             '.xlsx': 'Excel file',
             '.sql': 'SQL file',
+            '.pdf': 'PDF file'
         }
         return file_types.get(file_extension.lower(), 'Unknown file type')
-        
+
+    def show_pdf(self):
+        try:
+            command = f'evince {self.file}'
+            exit_code = os.system(command)
+            if exit_code != 0:
+                print(f'An error occured: Command exited with code {exit_code}')
+        except Exception as e:
+            print(self.colored_text(f'Exception opening file {self.file}:', self.type_color))
+            print(self.colored_text(e, self.error_color))
+        sys.exit(0)
+
 
     def show_file(self):
         try:
