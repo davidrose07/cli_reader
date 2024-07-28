@@ -193,7 +193,8 @@ class FormattedDataFrame:
 
     def __format__(self, format_spec):
         # Wrap the data
-        wrapped_data = self.df.applymap(lambda x: '\n'.join(textwrap.wrap(str(x), width=100)))
+        #wrapped_data = self.df.applymap(lambda x: '\n'.join(textwrap.wrap(str(x), width=100)))
+        wrapped_data = self.df.apply(lambda col: col.apply(lambda x: '\n'.join(textwrap.wrap(str(x), width=100))))
         
         # Format the header
         header = Fore.BLUE + Style.BRIGHT + ' '.join(wrapped_data.columns) + Style.RESET_ALL
