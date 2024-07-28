@@ -9,7 +9,6 @@ def main() -> None:
     Main Function to start the application. uses parsed arguements to handle bash script or run directly from python with command line arguements
 
     :param: file_path - file to convert
-    :param: show_ui -   options to display the user interface or use command line
     :param: browse -    option to use file explorer to find a file    
     '''
     parser = argparse.ArgumentParser(description="Read files from the command line with a browse option.")

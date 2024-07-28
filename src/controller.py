@@ -21,7 +21,6 @@ class Controller():
         '''
         Init Function: setup the ui and handle options
         :param: file - the file to convert
-        :param: show_ui - options to display the user interface or use command line
         :param: browse - option to use file explorer to find a file
         '''
         self.file = file
