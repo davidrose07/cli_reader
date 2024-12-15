@@ -4,8 +4,13 @@ Version: 1.0
 Summary: Read formatted files in the terminal
 Home-page: https://github.com/davidrose07/cli_reader
 Author: dar
-License: UNKNOWN
-Platform: UNKNOWN
-
-UNKNOWN
-
+Requires-Dist: colorama==0.4.6
+Requires-Dist: numpy==1.25.0
+Requires-Dist: pandas==2.2.2
+Requires-Dist: prompt_toolkit==3.0.47
+Requires-Dist: python-dateutil==2.9.0.post0
+Requires-Dist: pytz==2024.1
+Requires-Dist: six==1.16.0
+Requires-Dist: tabulate==0.9.0
+Requires-Dist: tzdata==2024.1
+Requires-Dist: wcwidth==0.2.13

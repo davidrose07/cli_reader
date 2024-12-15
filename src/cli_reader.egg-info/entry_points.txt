@@ -1,3 +1,2 @@
 [console_scripts]
-cli_reader = main:main
-
+reader = cli_reader.main:main

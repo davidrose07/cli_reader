@@ -4,7 +4,7 @@ import re
 from numpy import extract
 import pandas as pd
 import os
-from logs import Log
+from .logs import Log
 
 
 class DB:

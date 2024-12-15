@@ -2,13 +2,13 @@
 
 import tkinter as tk
 from tkinter import filedialog
-from cli_manager import CLIManager
+from .cli_manager import CLIManager
 import sys,subprocess, os
 from colorama import init, Fore, Style
 import pandas as pd
 from tabulate import tabulate
 import textwrap
-from db import DB
+from .db import DB
 
 init(autoreset=True)
 
