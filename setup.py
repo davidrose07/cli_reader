@@ -1,5 +1,7 @@
 from setuptools import setup, find_packages
 
+print("Packages where src is are found in : ")
+print(find_packages(where="src"))
 setup(
     name="cli-reader",
     version="1.0",
@@ -11,7 +13,7 @@ setup(
     include_package_data=True,
     entry_points={
         "console_scripts": [
-            "reader=main:main"
+            "reader=cli_reader.main:main"
         ]
     },
     install_requires=[
